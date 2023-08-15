@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "teste",
+      "price": "3",
+      "id": 4
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": 5
+    },
+    {
+      "name": "mouse",
+      "price": "150",
+      "id": 6
+    },
+    {
+      "name": "tela",
+      "price": "1000",
+      "id": 7
+    },
+    {
+      "name": "cpu",
+      "price": "1500",
+      "id": 8
+    },
+    {
+      "name": "celular",
+      "price": "1000",
+      "id": 9
+    },
+    {
+      "name": "tesssss",
+      "price": "3",
+      "id": 10
+    },
+    {
+      "name": "tesssss",
+      "price": "3",
+      "id": 11
+    },
+    {
+      "name": "testando",
+      "price": "15",
+      "id": 12
+    }
+  ]
+}
