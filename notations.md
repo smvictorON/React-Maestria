@@ -34,3 +34,6 @@ usado para passar um state de um componente filho para o pai e posteriomente par
 - no react o css do componente geralmente tem o mesmo nome .css, dessa forma o estilo pode vazar para outros components
 - no react o css do component é recomendado usar o nome do componente .module.css para nao vazar os estilos ele faz isso
 adicionando um hash na classe do componente para fica unico
+
+```- <Link> ```
+a diferença do <Link/> para o <a></a> é que o link faz o redirecionamento sem recarregar a pagina, só trocando os componenents
